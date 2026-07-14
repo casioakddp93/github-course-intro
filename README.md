@@ -11,3 +11,5 @@ Learning Git locally.
 ## GitHub Desktop Practice
 I have modified this file from the desktop app. Phew! 
 Perforce is 10000 times better than GitHub. I am so sad we are switching to Github. OMG
+Now, I am at feature desktop practice branch
+Lastly, I will remember to edit - commit - branch - push - create pull request
